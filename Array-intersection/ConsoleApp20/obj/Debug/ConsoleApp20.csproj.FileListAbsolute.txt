@@ -1,0 +1,5 @@
+c:\users\musi\documents\visual studio 2017\Projects\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe.config
+c:\users\musi\documents\visual studio 2017\Projects\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe
+c:\users\musi\documents\visual studio 2017\Projects\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.pdb
+c:\users\musi\documents\visual studio 2017\Projects\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.exe
+c:\users\musi\documents\visual studio 2017\Projects\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.pdb
